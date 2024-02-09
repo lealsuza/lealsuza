@@ -8,7 +8,7 @@ Desenvolvedora front-end apaixonada por criar interfaces web modernas e responsi
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [suzanalealds@gmail.com](mailto:suzanalealds@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Next.js
 
 ### Skills
 
