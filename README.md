@@ -4,7 +4,7 @@ Hi 👋 My name is Suzana
 Front-end developer
 -------------------
 
-Desenvolvedora front-end apaixonada por criar interfaces web modernas e responsivas. Tenho experiência em desenvolvimento de sites e aplicativos web usando Javascript, Typescript, React e Node.js.
+Desenvolvedora front-end apaixonada por criar interfaces web modernas e responsivas. Tenho experiência em desenvolvimento de sites e aplicativos web usando Javascript, Typescript, React, Next.js e Node.js.
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [suzanalealds@gmail.com](mailto:suzanalealds@gmail.com)
