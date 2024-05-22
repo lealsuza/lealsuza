@@ -10,7 +10,6 @@ Desenvolvedora front-end apaixonada por criar interfaces web modernas e responsi
 * ✉️  You can contact me at [suzanalealds@gmail.com](mailto:suzanalealds@gmail.com)
 * 🧠  I'm learning React Native
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lealsuza&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lealsuza&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 ###
 
